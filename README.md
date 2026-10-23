@@ -207,6 +207,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Beach Day              | Beach and beach-condition data for planning beach days | [Go!](https://beachdayapi.com) |
 | TransportAPI           | Transport data and development | [Go!](https://developer.transportapi.com/)            |
 | YouChina               | Free China entry-readiness guides and visa-free transit eligibility checker | [Go!](https://you-china.com/en/transit) |
+| GoTrip | Free China Arrival Card prep guide (official filing is free; GoTrip does not submit for you). Also Asia arrival-card guides, with assisted filling only for Singapore and South Korea after you confirm. | [Go!](https://gotrip.asia/en/guides/china-arrival-card/) |
 | CoworkingView          | Coworking and private office search API (420+ spaces in Europe and the UAE, no key) | [Go!](https://api.coworkingview.com/v1) |
 
 ## Star History
